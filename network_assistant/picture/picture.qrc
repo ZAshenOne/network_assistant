@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>涂白.jpg</file>
+        <file>缤纷几何.jpg</file>
+        <file>缤纷叶.jpg</file>
+        <file>防火女.png</file>
+        <file>海天.jpg</file>
+        <file>灰木板.jpg</file>
+        <file>灰月.jpg</file>
+        <file>精灵.png</file>
+        <file>天空.jpg</file>
+        <file>星夜.png</file>
+        <file>雨窗.jpg</file>
+    </qresource>
+</RCC>
